@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 add Right Gif Image
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://embed.lottiefiles.com/animation/120582">
 
 <p align="left"> <a href="https://twitter.com/piyush@aitpune" target="blank"><img src="https://img.shields.io/twitter/follow/piyush@aitpune?logo=twitter&style=for-the-badge" alt="piyush@aitpune" /></a> </p>
 

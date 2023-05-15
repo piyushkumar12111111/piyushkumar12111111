@@ -15,7 +15,7 @@ add Right Gif Image
 
 - 👯 I’m looking to collaborate on [E-COLLIE apka rail mitr](https://github.com/piyushkumar12111111/E-COOLIE)
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Flutter Development**
 
 - 📫 How to reach me **piyushkumaraitpune@gmail.com**
 

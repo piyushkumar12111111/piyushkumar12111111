@@ -9,13 +9,11 @@ add Right Gif Image
 
 <p align="left"> <a href="https://twitter.com/piyush@aitpune" target="blank"><img src="https://img.shields.io/twitter/follow/piyush@aitpune?logo=twitter&style=for-the-badge" alt="piyush@aitpune" /></a> </p>
 
-- 🔭 I’m currently working on [FIREBASE]
+- 🔭 SDE(Android) Intern @ Trendo , Former SDE(Android) Intern @ BlueBricks
 
-- 🌱 I’m currently learning **Flutter , Firebase**
+- 🌱 I’m currently Working With  **Flutter , Firebase** , **BLOCK , **GetX 
 
-- 👯 I’m looking to collaborate on [E-COLLIE apka rail mitr](https://github.com/piyushkumar12111111/E-COOLIE)
-
-- 💬 Ask me about **Flutter Development**
+- 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **piyushkumaraitpune@gmail.com**
 

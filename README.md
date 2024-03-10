@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 
-- 🔭 SDE(Android) Intern @ Trendo , Former SDE(Android) Intern @ BlueBricks
+- 🔭 SDE(Android) Intern @ BlueBricks 
 
 - 🌱 I’m currently Working With  **Flutter , Firebase** , **BLOCK , **GetX 
 

@@ -9,7 +9,7 @@
 
 <div align="center">
   
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=piyushkumar12111111.piyushkumar12111111)
+  ![Profile Views](https://komarev.com/ghpvc/?username=piyushkumar12111111&color=brightgreen)
 
 </div>
 

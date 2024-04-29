@@ -15,6 +15,10 @@
 
 ---
 
+![Control is an Illusion](https://raw.githubusercontent.com/Z3RO-O/Z3RO-O/main/control%20is%20an%20illsuion%20git.jpg)
+
+---
+
 ### 📘 About Me
 
 - 🔭 I’m currently working as an **SDE(Android) Intern** at **BlueBricks**.
@@ -55,7 +59,7 @@
   <img src="https://www.vectorlogo.zone/logos/nativescript/nativescript-icon.svg" alt="NativeScript" width="40" height="40"/>
 </p>
 
-![Control is an Illusion](https://raw.githubusercontent.com/Z3RO-O/Z3RO-O/main/control%20is%20an%20illsuion%20git.jpg)
+
 
 ---
 ## <p align="center">📊 GitHub Stats</p>

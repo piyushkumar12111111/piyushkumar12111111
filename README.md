@@ -90,16 +90,7 @@
 ![Piyush's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar12111111&theme=nightowl)
 
 
----
 
-## 🚀 Dynamic 3D Contribution Calendar
-<p align="center">
-  <a href="https://skyline.github.com/piyushkumar12111111/2023">
-    <img src="https://skyline.github.com/piyushkumar12111111/year.png" width="500" alt="2023 GitHub Skyline">
-  </a>
-</p>
-
----
 
 </div>
 

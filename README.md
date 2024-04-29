@@ -63,5 +63,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushkumar12111111&show_icons=true&locale=en&layout=compact" alt="piyushkumar12111111" />
   <img src="https://github-readme-stats.vercel.app/api?username=piyushkumar12111111&show_icons=true&locale=en" alt="piyushkumar12111111" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar12111111&" alt="piyushkumar12111111" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=piyushkumar12111111&theme=minimal" alt="Piyush's GitHub Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=piyushkumar12111111&theme=minimal" alt="piyushkumar12111111" />
 </p>

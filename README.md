@@ -28,12 +28,26 @@
 
 ---
 
-### 🌐 Connect with Me
+
+
+### Connect with me : <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-kumar-806903228/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush kumar" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/piyush_7642/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyush kumar" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/piyush_129" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="piyush_129" height="30" width="40" /></a>
+<a href="mailto:piyushkumaraitpune@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/apple-mail.png" alt="gmail" height="40" width="40"/></a>
+<a href="https://www.linkedin.com/in/piyush-kumar-806903228/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="linkedin" height="40" width="40"/></a>
+<a href="https://twitter.com/vaibhavsngh0" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/twitter-squared.png" alt="twitter" height="40" width="40" /></a>
+<a href="https://instagram.com/vvaibhav_s/" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/17462593" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17462593"  height="25" width="25" /></a>
+<a href="https://www.codechef.com/users/z3ro_o" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="z3ro_o" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/z3ro_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="z3ro_o"  height="30" width="30" /></a>
+&nbsp
+<a href="https://codeforces.com/profile/z3ro_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="z3ro_o" height="30" width="30"  /></a>
+&nbsp
+<a href="https://www.leetcode.com/z3ro_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="z3ro_o"  height="30" width="30" /></a>
+&nbsp
+<a href="https://www.hackerearth.com/@vaibhavsingh7839271574" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vaibhavsingh7839271574"  height="30" width="30"  /></a>
+&nbsp
+<a href="https://auth.geeksforgeeks.org/user/z3ro_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="z3ro_o"  height="30" width="30" /></a>
 </p>
 
 ---

@@ -86,7 +86,13 @@
 ![](https://raw.githubusercontent.com/piyushkumar12111111/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ![](https://streak-stats.demolab.com?user=piyushkumar12111111&theme=transparent&card_width=500)<br/>
 
+
+![GitHub Contribution Grid Snake Animation](https://raw.githubusercontent.com/piyushkumar12111111/piyushkumar12111111/output/github-contribution-grid-snake.svg)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar12111111&theme=dark&background=000000)
+
 </div>
+
 
 ---
 [![@z3ro_o's Holopin board](https://holopin.me/z3ro_o)](https://holopin.io/@z3ro_o)

@@ -56,12 +56,29 @@
 </p>
 
 ---
+## <p align="center">📊 GitHub Stats</p>
 
-### 📈 GitHub Stats
+<div align="center">
+
+![](https://raw.githubusercontent.com/piyushkumar12111111/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/piyushkumar12111111/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/piyushkumar12111111/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/piyushkumar12111111/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://streak-stats.demolab.com?user=piyushkumar12111111&theme=transparent&card_width=500)<br/>
+
+</div>
+
+---
+[![@z3ro_o's Holopin board](https://holopin.me/z3ro_o)](https://holopin.io/@z3ro_o)
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+
+---
+[![](https://visitcount.itsvg.in/api?id=piyushkumar12111111&icon=7&color=9)](https://visitcount.itsvg.in)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/z3r00"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="35" width="160" alt="z3r00" /></a></p>
+<a href="https://paypal.me/Vaibhav307"> <img align="left" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="35" width="120" alt="z3r00" /></a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushkumar12111111&show_icons=true&locale=en&layout=compact" alt="piyushkumar12111111" />
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushkumar12111111&show_icons=true&locale=en" alt="piyushkumar12111111" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar12111111&" alt="piyushkumar12111111" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=piyushkumar12111111&theme=minimal" alt="piyushkumar12111111" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>

@@ -92,22 +92,7 @@
 
 
 
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/piyushkumar12111111/piyushkumar12111111/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Game" width="100%" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/piyushkumar12111111">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushkumar12111111&layout=compact&theme=algolia" />
-    <img src="https://github-readme-stats.vercel.app/api?username=piyushkumar12111111&show_icons=true&theme=algolia" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar12111111&theme=radical" width="48%" />
-</div>
 
 
 

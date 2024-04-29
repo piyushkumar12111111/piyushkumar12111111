@@ -48,6 +48,12 @@
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/golang/golang-original.svg" alt="golang" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apple_apple/icon/apple_apple-icon.svg" alt="iOS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/madhank93/cool-images/c04f217a44f47ecc896d2c8f4efbabd24b39c508/velocity-x.svg" alt="VelocityX" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React Native" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/xamarin/xamarin-icon.svg" alt="Xamarin" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nativescript/nativescript-icon.svg" alt="NativeScript" width="40" height="40"/>
 </p>
 
 ---

@@ -86,7 +86,8 @@
 ![](https://raw.githubusercontent.com/piyushkumar12111111/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ![](https://streak-stats.demolab.com?user=piyushkumar12111111&theme=transparent&card_width=500)<br/>
 
-![Piyush's GitHub heatmap](https://ghchart.rshah.org/piyushkumar12111111)
+![Piyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=piyushkumar12111111&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true)
+![Piyush's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushkumar12111111&theme=nightowl)
 
 
 

@@ -1,4 +1,20 @@
-# <div align="center">👋 Hello World, I'm Piyush Kumar</div>
+# <div align="center">🌟 Welcome to My Tech Universe 🌟</div>
+
+<div align="center">
+  
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=250&section=header&text=Piyush%20Kumar&fontSize=70&fontAlignY=35&desc=Flutter%20Developer%20|%20Mobile%20App%20Developer%20|%20Tech%20Enthusiast&descAlignY=55&animation=twinkling)](https://github.com/piyushkumar12111111)
+
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F5&center=true&vCenter=true&random=false&width=635&lines=Mobile+App+Developer;Flutter+Enthusiast;Tech+Innovation+Passionate;Full+Stack+Development;Always+Learning+New+Technologies" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3DABF5&random=false&width=435&lines=Python+Developer;Mobile+App+Developer;Backend+Developer;Tech+Enthusiast" alt="Typing SVG" />

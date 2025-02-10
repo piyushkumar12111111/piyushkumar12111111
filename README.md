@@ -20,12 +20,24 @@
 
 
 ## 💫 About Me
-- 🚀 SDE Intern at **Pilot Tech**
-- 💻 Specialized in **Python** & **Backend Development**
-- 🌱 Currently mastering **Python**, **Microservices**, **Cloud**, and **Infrastructure**
-- 📱 Building the next generation of mobile experiences
-- 📫 Reach me at: **piyushkumaraitpune@gmail.com**
-- ⚡ Fun fact: I debug with coffee and solve bugs with more coffee ☕
+```typescript
+const piyush = {
+    pronouns: "he" | "him",
+    code: ["Dart", "Python", "JavaScript", "Java", "C++"],
+    askMeAbout: ["app dev", "mobile dev", "flutter", "tech"],
+    technologies: {
+        mobileApp: ["Flutter", "Android Native", "React Native"],
+        backEnd: {
+            js: ["Node", "NestJS"],
+            python: ["Flask", "FastAPI"]
+        },
+        databases: ["Firebase", "Redis", "MongoDB"],
+        cloud: ["Google Cloud Platform", "Firebase"]
+    },
+    currentFocus: "Building Scalable Mobile Applications",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 ## 🌐 Let's Connect
 <p align="left">

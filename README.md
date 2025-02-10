@@ -38,14 +38,39 @@ const piyush = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-## 🤖 Interactive Resume Chat
+## 🤖 Chat With My AI Assistant
 
-<details>
-<summary>🗣️ Ask me anything about my background!</summary>
+<div align="center">
+  <a href="https://piyush-chat.vercel.app">
+    <img src="https://img.shields.io/badge/Ask%20me%20anything-1DA1F2?style=for-the-badge&logo=chatbot&logoColor=white" alt="Chat with AI"/>
+  </a>
+</div>
 
-> Try asking about my experience, skills, projects, or education. The chat is powered by Google's Gemini AI and will answer based on my resume data.
+<table>
+<tr>
+<td>
 
-<ResumeChat />
+### 💬 Quick Links:
+- [💻 Ask about my technical skills](https://piyush-chat.vercel.app/?q=What%20are%20your%20technical%20skills%3F)
+- [🎓 Learn about my education](https://piyush-chat.vercel.app/?q=Tell%20me%20about%20your%20education)
+- [💼 Explore my work experience](https://piyush-chat.vercel.app/?q=What%20is%20your%20work%20experience%3F)
+- [🏆 View my achievements](https://piyush-chat.vercel.app/?q=What%20are%20your%20notable%20achievements%3F)
+
+</td>
+<td>
+
+### 🎯 Sample Questions:
+- What technologies do you work with?
+- Tell me about your internship at Pilot Tech
+- What projects have you built?
+- What are your key achievements?
+- What is your expertise in Flutter?
+
+</td>
+</tr>
+</table>
+
+> 💡 Click the button above to chat with my AI assistant about my skills, experience, and projects! The assistant has access to my full resume and can answer detailed questions about my background.
 
 </details>
 

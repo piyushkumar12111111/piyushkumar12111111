@@ -121,11 +121,26 @@ const piyush = {
 [![Piyush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyushkumar12111111&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🎯 Current Focus
-- Advanced State Management in Flutter
-- Clean Architecture Implementation
-- UI/UX Design Patterns
-- Performance Optimization
-- Cross-Platform Development
+```mermaid
+mindmap
+  root((Skills))
+    Mobile Development
+      Flutter Advanced Patterns
+      Native Android
+      Cross-Platform Solutions
+    Backend
+      FastAPI
+      NestJS
+      System Design
+    Cloud
+      GCP
+      Firebase
+      Scalability
+    Architecture
+      Clean Code
+      SOLID Principles
+      Design Patterns
+```
 
 ## 🎨 Portfolio Projects
 <div align="center">

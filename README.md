@@ -38,6 +38,16 @@ const piyush = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+## 🤖 Interactive Resume Chat
+
+<details>
+<summary>🗣️ Ask me anything about my background!</summary>
+
+> Try asking about my experience, skills, projects, or education. The chat is powered by Google's Gemini AI and will answer based on my resume data.
+
+<ResumeChat />
+
+</details>
 
 ## 🌐 Let's Connect
 <p align="left">

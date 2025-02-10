@@ -1,15 +1,15 @@
 # <div align="center">👋 Hello World, I'm Piyush Kumar</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3DABF5&random=false&width=435&lines=Flutter+Developer;Mobile+App+Developer;Android+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3DABF5&random=false&width=435&lines=Python+Developer;Mobile+App+Developer;Backend+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 ## 💫 About Me
-- 🚀 SDE(Android) Intern at **BlueBricks**
-- 💻 Specialized in **Flutter** & **Android Development**
-- 🌱 Currently mastering **Flutter**, **Firebase**, **BLoC**, and **GetX**
+- 🚀 SDE Intern at **Pilot Tech**
+- 💻 Specialized in **Python** & **Backend Development**
+- 🌱 Currently mastering **Python**, **Microservices**, **Cloud**, and **Infrastructure**
 - 📱 Building the next generation of mobile experiences
 - 📫 Reach me at: **piyushkumaraitpune@gmail.com**
 - ⚡ Fun fact: I debug with coffee and solve bugs with more coffee ☕
@@ -54,10 +54,10 @@
 
 ## 🎨 Portfolio Projects
 <div align="center">
-  <a href="https://github.com/piyushkumar12111111/project1">
+  <a href="https://github.com/piyushkumar12111111/DiagramGpt_Flask">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar12111111&repo=project1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/piyushkumar12111111/project2">
+  <a href="https://github.com/piyushkumar12111111/llm-integrator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=piyushkumar12111111&repo=project2&theme=tokyonight" />
   </a>
 </div>

@@ -12,9 +12,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=3DABF5&random=false&width=435&lines=Python+Developer;Mobile+App+Developer;Backend+Developer;Tech+Enthusiast" alt="Typing SVG" />
-</div>
+
 
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
